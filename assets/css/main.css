@@ -763,7 +763,6 @@ hr:after {
 }
 
 @media screen and (max-width: 1280px) {
-
     .row {
         display: flex;
         flex-wrap: wrap;
@@ -1008,7 +1007,6 @@ hr:after {
 }
 
 @media screen and (max-width: 960px) {
-
     .row {
         display: flex;
         flex-wrap: wrap;
@@ -1253,7 +1251,6 @@ hr:after {
 }
 
 @media screen and (max-width: 840px) {
-
     .row {
         display: flex;
         flex-wrap: wrap;
@@ -1498,7 +1495,6 @@ hr:after {
 }
 
 @media screen and (max-width: 736px) {
-
     .row {
         display: flex;
         flex-wrap: wrap;
@@ -2688,7 +2684,6 @@ body.homepage.is-preload #header:after {
 /* Narrower */
 
 @media screen and (max-width: 840px) {
-
     /* Basic */
     body, input, textarea, select {
         font-size: 13pt;
@@ -2728,7 +2723,6 @@ body.homepage.is-preload #header:after {
 }
 
 @media screen and (max-width: 736px) {
-
     /* Basic */
     html, body {
         overflow-x: hidden;
